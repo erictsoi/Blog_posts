@@ -1,0 +1,80 @@
+In August 2012, my brother Denis introduced me to DimSumLabs, a Hackerspace in Hong Kong. Around this time my brother and i had already spent the better part of a year getting to grips with programming for iOS and trying our fortune on the app store (to no avail!)
+
+My initial thought about joining a hackerspace was 'great, maybe they can help teach me to make apps!' However as i became more and more involved with DimSumLabs i quickly saw that this community had a lot more to offer as thier members were also deeply involved with hardware and Hong Kong's developing startup community.
+
+The members were just ordinary guys, guys with a problem that they wanted to solve.
+
+Around this time my wife was around 7 months pregnant. I was about to become a father.
+
+
+
+
+In October 2012, my wife gave birth to my son Adrian.
+
+Soon after; splitting my time between work, learning about software, hardware and business startups; i started to learn about parenting. After my son was born, i became more aware of children's health problems.
+
+I discovered a phenonemon known as Sudden infant death syndrome (SIDS). The sudden death of an infant that is not caused by medical history and remains unexplained. As infants are at the highest risk for SIDS during sleep, it is also known as cot death or crib death.
+
+However, studies of Asian families who place babies to sleep on their back has found to reduce the occurance of SIDS. Based on this evidence the U.S. adopted this practice which has resulted in a marked reduction in the incidence of SIDS.
+
+Yet i was still worried that my child would turn over in their sleep. As a new parent, i tried to look for a product that would alert me to the child turning over. 
+
+Looking through the aisle of baby stores, baby magazines and online stores i failed to find a product that suited my needs. I would wake up 3~4 times a night to check on my son....who was sound fast asleep. I lacked the peace of mind.
+
+Yes there were heartrate sensors, breathing monitors and such, but they were too complicated and expensive, yet they did not specifically alert me to my son turning over in his sleep. As i investigated further, some of the passive sleep positioning devices on the market have been attributed to cause of death in some instances. 
+
+
+1. availible products on the market try to solve it by
+monitoring the heart
+2. breathing monitors
+3. positioning (aka bolster cusions) that hold the child in place
+
+1. Heartrate stopping is usually a bad sign- maybe too late
+2. breathign stopped. do you know cpr?
+3, kids suffocate on the cusions
+
+Why are these baby products still on the market?
+
+
+
+
+
+
+
+Maybe i could make a product? I believed there was a way to combine an motion sensor to a communications module to alert parents that thier baby had turned over in their sleep. 
+
+
+At this point i had only an idea. I did not have any software or hardware knowledge but maybe i had the collective knowledge from the hacker community. 
+
+In December 2012, after talking through my idea with my brother and some members of the hackerspace community we created a working proof of concept. 
+
+Our initial proof of concept used Texas Instruments Keyfob development kit that you can buy off the shelf. We had the hardware, they just needed someone to find a use for it.
+
+What we created as the baby sensor was a device to be placed onto a child, using an an accelerometer (these are used in iPhones screens to detect landscape and protrait orientation) and a bluetooth low energy module to sync back to your mobile phone. Mobile phones are always on, and though a simple 'pairing' process easily syncs to your phone.
+
+
+We are now past the 'prototype' stage. We are still relying on the Texas Instruments default app as do not have a working software program (again iOS is difficult to program) but we are very slowly learning along the way.
+
+Other reason for our delay is that lack of validation. We do not know if this product will help parents in the long run. We do not know if there are any buyers for our product. We have not validated the idea. 
+
+We certainly do not want our product to cause any deaths of infants. 
+I am afraid of succeeding. I am even more afraid of failing.
+
+
+
+Since June 2013 after putting our idea on the shelf, Billy Han, another member of DimSumLabs asked if he could help us with our idea. He told us that he really believes in the product and volunteered to look at the software side. His interest and encouragement has really renewed our focus and we are slowly moving forward with our idea.
+
+We are now toying with the idea of creating a crowdfunding campaign to deliver our product to parents that believe in our product.
+
+
+
+
+
+
+
+
+
+
+
+
+
